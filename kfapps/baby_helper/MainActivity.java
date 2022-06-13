@@ -41,6 +41,7 @@ public class MainActivity extends Activity
             public void onSelectedDayChange(@NonNull CalendarView calendarView, int year, int month, int dayOfMonth)
             {
                 selectedDate = Integer.toString(year) + Integer.toString(month) + Integer.toString(dayOfMonth);
+                ReadDatabase(calendarView);
             }
         });
         try
