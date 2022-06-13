@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Baby_helper</string>
+    <string name="add_feeding">Add Feeding</string>
+    <string name="enter_feeding_details">Enter Feeding Details</string>
+    <string name="view_Day">View Day</string>
+    <string name="return_to_menu">Return</string>
+</resources>
