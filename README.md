@@ -19,3 +19,15 @@ Seeing that we will base our ideology on simplicity it will be vital to have a r
 We will have to have communication capabilities between the shared accounts, the information will need to be stored and communicated between multiple devices in order to meet the functionalities.
 Design
 As discussed on the basis of our platform simplicity will be key and that is something that will translate directly into the design of the app.
+
+# CHANGE LOG
+V.0.1
+Initial program does allow saving and accessing information through a basic 1 activity layout.
+Added Calendar
+Added Text with Add Feeding and View Feeding buttons
+Added Database to store and retrieve one feeding.
+
+# Future Updates
+In the process of allowing feedings to be displayed more clearly upon retrieval
+Refining database code to allow for storage and retreival of several feedings compared to the current one
+Developing a communication system to allow account storage to share between devices.
