@@ -26,8 +26,12 @@ Added Calendar
 Added Text with Add Feeding and View Feeding buttons
 Added Database to store and retrieve one feeding.
 
+V.0.2
+Database now able to hold multiple values including Time/Date/Amount
+Database is able to retrieve saved data, however it currently pulls all data not a specific date.
+Calendar does not directly pull updates on clicking a date, now is used simply for selecting date entry.
+
 # Future Updates
-In the process of allowing feedings to be displayed more clearly upon retrieval
-Refining database code to allow for storage and retrieval of several feedings compared to the current one
 Developing a communication system to allow account storage to share between devices.
+Working on allowing database requests for specific dates, not all.
 
