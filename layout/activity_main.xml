@@ -4,7 +4,7 @@
     android:id="@+id/relativeLayout"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.kfapps.db_test.MainActivity">
+    tools:context="com.kfapps.baby_helper.MainActivity">
 
     <EditText
         android:id="@+id/editText1"
